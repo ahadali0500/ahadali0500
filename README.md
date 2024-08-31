@@ -28,7 +28,7 @@ I'm Ahad, a creative Full Stack Web Developer with a passion for transforming id
 - **Front-End:** HTML, CSS, Bootstrap, JavaScript, React JS, Next JS, jQuery, AJAX
 - **Back-End:** PHP, Laravel, Node JS, Express JS
 - **Databases:** MySQL, MongoDB
-- **DevOps:** AWS, Vercel, Linux
+- **DevOps:** Siteground, Hostinger VPS, Godaddy
 - **Tools & Other Skills:** Redux, API Integration
 
 ---
@@ -57,43 +57,35 @@ I'm Ahad, a creative Full Stack Web Developer with a passion for transforming id
 ![Postman](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&color=FF6C37)
 ![GitHub](https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=github&color=181717)
 
----
-
 ### 🏆 Achievements & Highlights
 
-- 🚀 **Built a scalable e-commerce platform** using Laravel and React JS, serving thousands of users daily.
+- 🤖 **Developed [Job Bank](https://job-tech.vercel.app/),** an AI-based web app in Next.js featuring AI-powered quiz and interview question generation, as well as a resume-making module. The app operates on a subscription model, offering users tailored career support.
+- 🚀 **Built a scalable e-commerce platform** using Node JS, Express JS, React JS, and Next JS serving thousands of users daily.
 - 🛠️ **Developed custom APIs** for seamless integration between platforms, enhancing the functionality of existing systems.
 - 🌐 **Optimized performance** of web applications using Next JS, achieving significant speed and SEO improvements.
 - 📊 **Managed and optimized databases** for large-scale applications, ensuring reliability and quick data retrieval.
+- 📡 **Implemented real-time features** using WebSockets, enhancing user engagement with instant updates and notifications.
+- 🏅 **Founded [XecureSol](https://xecuresol.vercel.app/),** a startup selected by the Punjab Information Technology Board (PITB), Building Trust and security in digital Assets Trade.
 
----
 
-### 📈 GitHub Stats
 
-![Ahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
-
----
 
 ### 📚 Recent Projects
 
-- **[E-commerce Platform](https://github.com/your-github-username/e-commerce-platform):** A robust online store built with Laravel and React JS, featuring custom API integration and advanced search functionality.
-- **[Portfolio Website](https://github.com/your-github-username/portfolio):** A personal portfolio showcasing my projects, skills, and contact information, built with Next JS and styled-components.
-- **[Chat Application](https://github.com/your-github-username/chat-application):** A real-time chat app with Node JS, Express, and Socket.io, featuring user authentication and private messaging.
+- **[E-commerce Platform]:** A robust online store built with Node JS, Express JS, React JS, and Next JS, featuring custom API integration and advanced search functionality.
+- **[Portfolio Website](https://ahad-commits.vercel.app/):** A personal portfolio showcasing my projects, skills, and contact information, built with Next JS and styled-components.
+- 🤖 **[Job Bank](https://job-tech.vercel.app/):** An AI-based web app in Next.js featuring AI-powered quiz and interview question generation, as well as a resume-making module. The app operates on a subscription model, offering users tailored career support.
+- 🩺 **[Medical MCQ App](https://medipedia.vercel.app/):** An interactive medical MCQ app built with React and Next.js, designed to help medical students and professionals practice and improve their knowledge through a vast collection of multiple-choice questions tailored to various medical subjects.
+- 🎓 **[SkillAlfa](https://skillalfa.com/):** Developed an online learning institute website with a comprehensive student portal, allowing students to access courses, track progress, and interact with instructors. Built with a focus on user experience and scalability to support a wide range of educational content.
 
----
 
 ### 💬 Let's Connect
 
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-- 🌐 **Portfolio:** [your-portfolio-link](https://your-portfolio-link)
-- 💼 **LinkedIn:** [Ahad's LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 🐦 **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- 📧 **Email:** [ahadali0500@gmail.com(mailto:ahadali0500@gmail.com)
+- 🌐 **Portfolio:** [https://ahad-commits.vercel.app](https://ahad-commits.vercel.app/)
+- 💼 **LinkedIn:** [Ahad's LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ahadali-webmaestro/))
 
 ---
 
 ### 🌟 Fun Fact
-I love exploring new tech and am always eager to learn something new. When I'm not coding, you'll find me exploring the outdoors or experimenting with new recipes in the kitchen!
+I love exploring new tech and am always eager to learn something new. When I'm not coding, you'll find me exploring the outdoors or experimenting with new recipes in the kitchen! Currently, I'm diving into the world of blockchain and Web 3, exploring its vast potential for decentralized applications.
