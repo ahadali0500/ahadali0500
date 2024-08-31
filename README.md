@@ -83,7 +83,7 @@ I'm Ahad, a creative Full Stack Web Developer with a passion for transforming id
 
 - 📧 **Email:** [ahadali0500@gmail.com(mailto:ahadali0500@gmail.com)
 - 🌐 **Portfolio:** [https://ahad-commits.vercel.app](https://ahad-commits.vercel.app/)
-- 💼 **LinkedIn:** [Ahad's LinkedIn]([https://www.linkedin.com/in/ahadali-webmaestro)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/ahadali-webmaestro]([https://www.linkedin.com/in/ahadali-webmaestro)
 
 ---
 
