@@ -72,7 +72,7 @@ I'm Ahad, a creative Full Stack Web Developer with a passion for transforming id
 
 ### 📚 Recent Projects
 
-- **[E-commerce Platform]:** A robust online store built with Node JS, Express JS, React JS, and Next JS, featuring custom API integration and advanced search functionality.
+- **E-commerce Platform:** A robust online store built with Node JS, Express JS, React JS, and Next JS, featuring custom API integration and advanced search functionality.
 - **[Portfolio Website](https://ahad-commits.vercel.app/):** A personal portfolio showcasing my projects, skills, and contact information, built with Next JS and styled-components.
 - 🤖 **[Job Bank](https://job-tech.vercel.app/):** An AI-based web app in Next.js featuring AI-powered quiz and interview question generation, as well as a resume-making module. The app operates on a subscription model, offering users tailored career support.
 - 🩺 **[Medical MCQ App](https://medipedia.vercel.app/):** An interactive medical MCQ app built with React and Next.js, designed to help medical students and professionals practice and improve their knowledge through a vast collection of multiple-choice questions tailored to various medical subjects.
@@ -83,7 +83,7 @@ I'm Ahad, a creative Full Stack Web Developer with a passion for transforming id
 
 - 📧 **Email:** [ahadali0500@gmail.com(mailto:ahadali0500@gmail.com)
 - 🌐 **Portfolio:** [https://ahad-commits.vercel.app](https://ahad-commits.vercel.app/)
-- 💼 **LinkedIn:** [Ahad's LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ahadali-webmaestro/))
+- 💼 **LinkedIn:** [Ahad's LinkedIn]([https://www.linkedin.com/in/ahadali-webmaestro)
 
 ---
 
