@@ -19,6 +19,10 @@
 ![SiteGround](https://img.shields.io/badge/Hosting-SiteGround-informational?style=flat&logo=siteground&color=5BBF3D)
 ![Hostinger](https://img.shields.io/badge/Hosting-Hostinger-informational?style=flat&logo=hostinger&color=FF0000)
 ![GoDaddy](https://img.shields.io/badge/Hosting-GoDaddy-informational?style=flat&logo=godaddy&color=1E3A56)
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+![Jira](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=jira&color=0052CC)
+![Agile](https://img.shields.io/badge/Methodology-Agile-informational?style=flat&logo=agile&color=2091EB)
+![Scrum](https://img.shields.io/badge/Framework-Scrum-informational?style=flat&logo=scrumalliance&color=0052CC)
 
 ---
 
