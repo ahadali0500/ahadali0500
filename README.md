@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ahad!
-**🌐 Full Stack Web Developer | DevOps Engineerb**
+**🌐 Full Stack Web Developer | DevOps Engineer**
 
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E34F26)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=1572B6)
